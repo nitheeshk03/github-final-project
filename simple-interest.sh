@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your GitHub username>
+   # nitheeshk03
 
    # Input:
    # p, principal amount
@@ -15,8 +15,6 @@
 
    # Output:
    # simple interest = p*t*r
-
-   #edit the code if more efficient method is known 
    
    echo "Enter the principal:"
    read p
